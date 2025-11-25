@@ -33,7 +33,7 @@ void searchPlayer() {
     char name[50], line[200];
     int found = 0;
 
-    printf("\nEnter player name to search (exact): ");             //asking user for searching player
+    printf("\nEnter player name to search (like Name_P1): ");             //asking user for searching player
     scanf("%s", name);
 
     FILE *fp = fopen("scorecards.txt", "r");                    //opening scorecards text file in read mode
@@ -288,7 +288,7 @@ int main() {
         printf("Match Tied!\n");
     char ch;
     printf("\nDo you want to search any player's statistics? (y/n): ");
-    scanf("%c", &ch);
+    scanf(" %c", &ch);
     if (ch == 'y' || ch == 'Y') {           // if player says to search any player then call this func
         searchPlayer();
     }
@@ -297,4 +297,5 @@ int main() {
     freeList(teamB_bats, teamB_bowls);
 
     return 0;
+
 }
