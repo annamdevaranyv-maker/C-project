@@ -1,0 +1,88 @@
+
+------------------ csk SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+csk_P1	5	3	1	0	OUT
+csk_P2	22	6	0	2	NOT OUT
+csk_P3	9	3	2	0	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+mi_P2	14	6	1
+mi_P3	24	6	0
+
+Total = 42 (Extras: 6)
+
+------------------ mi SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+mi_P1	7	3	0	1	OUT
+mi_P2	7	4	0	0	NOT OUT
+mi_P3	14	5	0	1	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+csk_P1	18	6	1
+csk_P4	10	6	0
+
+Total = 28 (Extras: 0)
+
+------------------ csk SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+csk_P1	6	6	0	0	NOT OUT
+csk_P2	6	6	0	0	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+mi_P1	6	6	0
+mi_P2	6	6	0
+
+Total = 12 (Extras: 0)
+
+------------------ mi SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+mi_P1	14	3	0	2	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+csk_P3	14	3	0
+
+Total = 14 (Extras: 0)
+
+------------------ csk SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+csk_P1	11	7	1	0	NOT OUT
+csk_P2	11	5	0	0	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+mi_P1	13	6	0
+mi_P3	9	6	0
+
+Total = 22 (Extras: 0)
+
+------------------ mi SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+mi_P1	21	4	0	3	NOT OUT
+mi_P2	5	1	0	0	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+csk_P3	26	5	0
+
+Total = 26 (Extras: 0)
+
+------------------ CSK SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+CSK_P1	11	4	1	1	OUT
+CSK_P2	15	5	1	0	NOT OUT
+CSK_P3	7	3	1	0	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+MI_P1	16	6	1
+MI_P2	19	6	0
+
+Total = 41 (Extras: 8)
+
+------------------ MI SCORECARD -----------------
+Player	Runs	Balls	4s	6s	Status
+MI_P1	4	4	0	0	NOT OUT
+MI_P2	28	8	0	4	NOT OUT
+
+Bowler	Runs	Balls	Wickets
+CSK_P1	26	6	0
+CSK_P3	6	6	0
+
+Total = 32 (Extras: 0)
