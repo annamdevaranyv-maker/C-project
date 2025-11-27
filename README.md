@@ -106,3 +106,48 @@ Program entry point: reads team names, constructs batsman & bowler lists, simula
 S.Srikar Sai - Worked on code, comments, simulating the code.
 Sripathi Prathap Reddy - Worked on the report.
 A.N.Yasho Vardhan - Helped in code and report.
+
+Example:
+Input:
+CSK
+MI
+CSK won the toss and chooses to bat
+(1st innings)
+1 (Bowler number for 1st over)
+(Runs)
+1
+1
+out
+3 (batsman number)
+2
+3
+4
+4 (bowler for 2nd over)
+3
+6
+noball
+3 (free hit)
+wide
+3
+3
+4
+6
+(2nd innings)
+5 (Bowler number for 1st over)
+(Runs)
+3
+2
+6
+4
+3
+2
+7 (bowler for 2nd over)
+2
+3
+6
+4
+3
+1
+y
+CSK_P1
+CSK_P1 1 2 0 0 OUT
